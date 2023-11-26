@@ -53,6 +53,24 @@ apply a 10% discount to the price of the computer if the customer has bought two
 or more additional items.
 output the amount of money saved and the new price of the computer after the
 discount
+-PROGRAM#4
+Calculate sum of all the angles of hexagon. (Hint: Sum of all the angles of hexagon= 6*a; where ‘a’ is
+the measurement of one angle of hexagon which is equal to 120.)
+When the input of user is ‘1’, display area, perimeter and sum of all the angles of hexagon.
+Calculate area and perimeter of square whereas;
+Length of one side of square=last digit of CNIC + 1. (Hint: Area of square= (length)2; where ‘length’
+is the length of one side of square. Perimeter of square= 4*length; where ‘length’ is the length of
+one side of the square.)
+When the input of user is ‘2’, display the area and perimeter of the square.
+On any other input, the program should exit.
+To calculate area of hexagon calcArea();
+To calculate Perimeter of hexagon calcPeri();
+To calculate Sum of angles of hexagon calcAngleSum();
+To display area, perimeter, and sum of
+angles of hexagon display();
+To calculate area of Square calcAreaSquare();
+To calculate Perimeter of Square calcPeriSquare();
+To display area and perimeter of Square display();
 
 
 
