@@ -10,6 +10,7 @@ Press 2 to display the bill of slab 3.(Hint: In slab 3, the unit range is 201 to
 costs Rs.20, and the data of slab 3 is in the third row of the matrix.)
 Press any other key to exit.
 
+
 -PROGRAM#2
 Task 1 – Start of the day.
 Write a program to set up the screen display for the start of the day. Initialize suitable
@@ -28,6 +29,7 @@ passengers and the total amount of money taken for the day. Find and display the
 train journey with the most passengers that day.Write and test a program for the electric mountain railway.
 Your program or programs must include appropriate prompts for the entry of
 data; data must be validated on entry.
+
 
 -PROGRAM#3
 An online computer shop sells customized personal computers. Every
@@ -53,6 +55,8 @@ apply a 10% discount to the price of the computer if the customer has bought two
 or more additional items.
 output the amount of money saved and the new price of the computer after the
 discount
+
+
 -PROGRAM#4
 Calculate sum of all the angles of hexagon. (Hint: Sum of all the angles of hexagon= 6*a; where ‘a’ is
 the measurement of one angle of hexagon which is equal to 120.)
